@@ -11,6 +11,7 @@ public class CooprHqApplication {
     // commit of feature
     // commit of feature
     // commit of feature
+    // commit of feature
     SpringApplication.run(CooprHqApplication.class, args);
   }
 }
